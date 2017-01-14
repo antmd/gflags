@@ -17,3 +17,5 @@ CMakeFiles/
 /test/gflags_unittest-main.cc
 /packages/
 CMakeLists.txt.user
+cmake-build*
+.idea
