@@ -1,7 +1,6 @@
 
 # We'll use defaults from the LLVM style, but with 4 columns indentation.
 BasedOnStyle: LLVM
-IndentWidth: 4
 ---
 Language: Cpp
 # Force pointers to the type for C++.
@@ -23,8 +22,8 @@ AccessModifierOffset: -4
 PointerAlignment: Left
 Cpp11BracedListStyle: true
 Standard:        Cpp11
-IndentWidth:     4
-TabWidth:        4
+IndentWidth:     8
+TabWidth:        8
 UseTab:          Never
 SpacesInParentheses: false
 SpacesInSquareBrackets: false
